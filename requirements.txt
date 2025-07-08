@@ -9,3 +9,5 @@ python-dotenv==1.1.1
 Requests==2.32.4
 schedule==1.2.2
 streamlit==1.42.0
+uvicorn
+python-multipart
